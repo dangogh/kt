@@ -8,8 +8,8 @@ require (
 	github.com/klauspost/cpuid v1.2.3 // indirect
 	github.com/linkedin/goavro/v2 v2.9.7
 	github.com/rogpeppe/go-internal v1.5.2
-	golang.org/x/crypto v0.0.0-20190404164418-38d8ce5564a5
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	golang.org/x/crypto v0.1.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	gopkg.in/retry.v1 v1.0.3
 )
 
